@@ -5,7 +5,6 @@ widget: featured
 
 # This file represents a page section.
 headless: true
-
 active: false
 
 
