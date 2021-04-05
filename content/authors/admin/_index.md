@@ -6,7 +6,7 @@ title: Laila Ananda Blömer
 superuser: true
 
 # Role/position/tagline
-role: PhD Student Biophysics & Neurobiology
+role: PhD Student Biophysics
 
 # Organizations/Affiliations to show in About widget
 organizations:
