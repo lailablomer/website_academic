@@ -38,14 +38,14 @@ education:
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
+<!-- social: -->
 <!-- - icon: envelope
   icon_pack: fas
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen -->
-- icon: researchgate # Alternatively, use `google-scholar` icon from `ai` icon pack
+<!-- - icon: researchgate # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
   link: https://www.researchgate.net/profile/Laila-Bloemer
 - icon: google-scholar
@@ -56,7 +56,7 @@ social:
   link: https://github.com/lailablomer
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/laila-bloemer/
+  link: https://www.linkedin.com/in/laila-bloemer/ -->
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
