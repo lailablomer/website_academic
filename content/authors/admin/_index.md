@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Laila Ananda Blömer
+title: Laila A. Blömer
 
 # Is this the primary user of the site?
 superuser: true
@@ -11,7 +11,7 @@ role: PhD Student Biophysics
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: LIPhy, Université Grenoble Alpes
-  url: https://www-liphy.univ-grenoble-alpes.fr/?lang=en
+  url: https://www.liphy.univ-grenoble-alpes.fr/?lang=en
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research focusses on the role of voltage gated ion channels in the mouse cortex. 
