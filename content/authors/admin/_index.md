@@ -1,60 +1,60 @@
 ---
 # Display name
-title: Laila Ananda Blömer
+title: Nelson Bighetti
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: PhD Student Biophysics
+role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: LIPhy, Université Grenoble Alpes
-  url: https://www-liphy.univ-grenoble-alpes.fr/?lang=en/
+- name: Stanford University
+  url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: something something 
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-- Neurobiology 
-- Electrophysiology 
-- Computational Modeling 
+- Artificial Intelligence
+- Computational Linguistics
+- Information Retrieval
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Biophysics
-    institution: Université Grenoble Alpes
-    year: now
-  - course: MSc Brain and Mind Sciences
-    institution: University College London
-    year: 2018
-  - course: BSc Natural and Social Sciences
-    institution: Universiteit van Amsterdam
-    year: 2017
+  - course: PhD in Artificial Intelligence
+    institution: Stanford University
+    year: 2012
+  - course: MEng in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2009
+  - course: BSc in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-<!-- - icon: envelope
+- icon: envelope
   icon_pack: fas
-  link: '/#contact' -->
-<!-- - icon: twitter<!--  -->
-  <!-- icon_pack: fab
-  link: https://twitter.com/GeorgeCushen --> -->
+  link: '/#contact'
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/GeorgeCushen
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://www.researchgate.net/profile/Laila-Bloemer
+  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/lailablomer
+  link: https://github.com/gcushen
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/laila-bloemer/
+  link: https://www.linkedin.com/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -67,9 +67,11 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 ---
 
-[Grenoble](https://www.grenoblealpesmetropole.fr/)
+Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
