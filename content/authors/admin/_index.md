@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Laila Ananda Blömer
 
 # Is this the primary user of the site?
 superuser: true
