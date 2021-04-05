@@ -6,7 +6,7 @@ title: Laila A. Blömer
 superuser: true
 
 # Role/position/tagline
-role: PhD Student Biophysics
+role: PhD Student in Biophysics
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -24,13 +24,13 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD student Biophysics
+  - course: PhD student in Biophysics
     institution: Université Grenoble Alpes
     year: now
-  - course: MSc Brain and Mind Sciences 
+  - course: MSc in Brain and Mind Sciences 
     institution: University College London
     year: 2018
-  - course: BSc Social and Natural Sciences
+  - course: BSc in Social and Natural Sciences
     institution: Universiteit van Amsterdam
     year: 2017
 
@@ -72,5 +72,6 @@ email: ""
 highlight_name: true
 ---
 
+Hello world
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
