@@ -67,7 +67,7 @@ social:
 # - icon: cv
 #   icon_pack: ai
 #   link: media/resume.pdf
-
+ 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
