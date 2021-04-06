@@ -75,7 +75,7 @@ email: ""
 highlight_name: true
 ---
 
-In my research, I am studying the behavior of voltage-gated ion channels during action potential back-propagation layer-5 pyramidal cells. The goal of my PhD is to extract the diverse sodium, calcium and potassium currents underlying the action potential back-propagation.
+In my PhD, I am studying the behavior of voltage-gated ion channels during action potential back-propagation layer-5 pyramidal cells. Under the supervision of [Dr. Marco Canepari](https://marco-canepari.wixsite.com/neuron-imaging-team/about_us), the goal of my PhD is to extract the diverse sodium, calcium and potassium currents underlying the action potential back-propagation.
 
 To experimentally investigate the activity of individual ion channels, I am combining optical recordings with pharmacological tools to selectively target individual types of ion channels, in particular with the use of photo-activable toxins developed by our collaborators. Optical measurements of calcium and voltage are performed in the dendrites of 5th layer pyramidal cells at 10-20 kHz, an acquisition rate that allows tracking the fast kinetics of voltage gated ion channels. The effect of blocking individual channels is measured at multiple locations along the dendrites. The purpose of these experiments is to produce a set of data and then to reproduce the experimental scenario with [NEURON](https://neuron.yale.edu/neuron/) models where the parameters of ion channels are adjusted in order to extract the native behavior of each channel, as well as their functional interactions.
 
