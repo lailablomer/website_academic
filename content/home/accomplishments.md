@@ -30,7 +30,7 @@ item:
   description: A circular economy startup, launched by 4 bachelor students, producing bread by upcycling brewers spent grains locally in Amsterdam. 
   organization: TheRockGroup
   organization_url: https://therockgroup.biz/
-  title: 'Startup BrouwBrood'
+  title: Startup BrouwBrood
   url: https://therockgroup.biz/project/brouwbrood-bread/
 - certificate_url: ""
   date_end: "2017_02_01"
