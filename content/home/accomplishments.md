@@ -2,8 +2,7 @@
 # An instance of the Accomplishments widget.
 # Documentation: https://sourcethemes.com/academic/docs/page-builder/
 widget: accomplishments
-
-active: false 
+active: true 
 
 # This file represents a page section.
 headless: true
@@ -25,28 +24,21 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
-  date_end: ""
-  date_start: "2018-10-01"
+- certificate_url: ""
+  date_end: "2018-08-01"
+  date_start: "2014-12-01"
+  description: A circular economy startup, launched by 4 bachelor students, producing bread by upcycling brewers spent grains locally in Amsterdam. 
+  organization: TheRockGroup
+  organization_url: https://therockgroup.biz/
+  title: 'Startup BrouwBrood'
+  url: https://therockgroup.biz/project/brouwbrood-bread/
+- certificate_url: ""
+  date_end: "2017_02_01"
+  date_start: "2016-09-01"
   description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
-  url: ""
-- certificate_url: https://www.edx.org
-  date_end: ""
-  date_start: "2018-03-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2017-12-21"
-  date_start: "2017-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R: S3 and R6 Course'
-  url: ""
+  organization: Universiteit van Amsterdam
+  organization_url: https://www.uva.nl/
+  title: Minor Programming
+  url: https://www.proglab.nl/minoren/minprog/
+
 ---
