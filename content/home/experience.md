@@ -28,7 +28,7 @@ experience:
     location: Grenoble, FR
     date_start: '2019-09-01'
     date_end: ''
-    desciption: Dissertation title; The Role of Voltage Gated Ion Channels in 5th Layer Pyramidal Neuron Action Potential Backpropagation, a Computational Model. Advisor Dr. Marco Canepari
+    desciption: My dissertation title is The Role of Voltage Gated Ion Channels in 5th Layer Pyramidal Neuron Action Potential Backpropagation, a Computational Model. Advisor Dr. Marco Canepari
   - title: Analysis developer
     company: Heimel lab, Netherland Insititute for Neuroscience
     company_url: https://nin.nl/research/researchgroups/heimel-groep/
@@ -37,8 +37,8 @@ experience:
     date_end: '2019-07-30'
     description: Development of motion correction scripts in MATLAB for the analysis of deep-brain 2-photon microscopy data.
   - title: Intern (Master Thesis)
-    company: UCL Queen Square, Institute of Neurology
-    company_url: https://nin.nl/research/researchgroups/heimel-groep/
+    company: Huntington’s Disease Centre, Institute of Neurology, UCL Queen Square 
+    company_url: https://www.ucl.ac.uk/ion/research/centres/hd-centre
     location: London, UK
     date_start: '2018-01-01'
     date_end: '2018-08-01'
