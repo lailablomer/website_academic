@@ -81,4 +81,4 @@ To experimentally investigate the activity of individual ion channels, I am comb
 
 Initially, the goal is to extract the patterns of ion channel behavior under physiological conditions and afterwards I aim to study ion channel behaviors in various channelopathies.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+If you are interested, {{< icon name="download" pack="fas" >}} download my {{< staticref "media/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
