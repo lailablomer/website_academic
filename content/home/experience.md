@@ -30,7 +30,6 @@ experience:
     date_end: ''
     desciption: |2- 
 Test:
-
 * Dissertation title: The Role of Voltage Gated Ion Channels in 5th Layer Pyramidal Neuron Action Potential Backpropagation, a Computational Model. 
 * Advisor: Dr. Marco Canepari.
   - title: Analysis developer
