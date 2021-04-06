@@ -44,9 +44,9 @@ experience:
     date_end: '2018-08-01'
     description: |2-
 	 Tasks:
+	 
 	 * Established and maintained primary cortical cultures of various mouse model for Huntington’s Disease.
 	 * Performed molecular characterisation to study incomplete splicing, alternative polyadenylation and Huntingtin aggregation.
-	 
 #description: |2-
 #        Responsibilities include:
 #        
