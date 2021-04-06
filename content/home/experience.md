@@ -29,7 +29,6 @@ experience:
     date_start: '2019-09-01'
     date_end: ''
     desciption: Dissertation title: The Role of Voltage Gated Ion Channels in 5th Layer Pyramidal Neuron Action Potential Backpropagation, a Computational Model. Advisor: Dr. Marco Canepari
-        
   - title: Analysis developer
     company: Heimel lab, Netherland Insititute for Neuroscience
     company_url: https://nin.nl/research/researchgroups/heimel-groep/
@@ -41,7 +40,7 @@ experience:
 
 #description: |2-
 #        Responsibilities include:
-        
+#        
 #        * Analysing
 #        * Modelling
 #        * Deploying
