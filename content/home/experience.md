@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 20
+weight: 30
 
 title: Experience
 subtitle:
@@ -28,7 +28,7 @@ experience:
     location: Grenoble, FR
     date_start: '2019-09-01'
     date_end: ''
-    desciption: My dissertation title is The Role of Voltage Gated Ion Channels in 5th Layer Pyramidal Neuron Action Potential Backpropagation, a Computational Model. Advisor Dr. Marco Canepari
+    desciption: My dissertation title is The Role of Voltage Gated Ion Channels in 5th Layer Pyramidal Neuron Action Potential Backpropagation, a Computational Model. Advisor Dr. Marco Canepari. 
   - title: Analysis developer
     company: Heimel lab, Netherland Insititute for Neuroscience
     company_url: https://nin.nl/research/researchgroups/heimel-groep/
