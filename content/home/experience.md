@@ -24,14 +24,11 @@ date_format: Jan 2006
 experience:
   - title: PhD Student
     company: LIPhy, CNRS
-    company_url: https://www-liphy.univ-grenoble-alpes.fr/?lang=en
+    company_url: https://marco-canepari.wixsite.com/neuron-imaging-team/about_us
     location: Grenoble, FR
     date_start: '2019-09-01'
     date_end: ''
-    desciption: |2- Test:
-	
- * Dissertation title: The Role of Voltage Gated Ion Channels in 5th Layer Pyramidal Neuron Action Potential Backpropagation, a Computational Model. 
- * Advisor: Dr. Marco Canepari.
+    desciption: Dissertation title; The Role of Voltage Gated Ion Channels in 5th Layer Pyramidal Neuron Action Potential Backpropagation, a Computational Model. Advisor; Dr. Marco Canepari.
   - title: Analysis developer
     company: Heimel lab, Netherland Insititute for Neuroscience
     company_url: https://nin.nl/research/researchgroups/heimel-groep/
