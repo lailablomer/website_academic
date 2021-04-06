@@ -45,18 +45,18 @@ social:
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
-- icon: researchgate # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: ai
-  link: https://www.researchgate.net/profile/Laila-Bloemer
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?hl=nl&user=hKJZHSIAAAAJ&view_op=list_works&gmla=AJsN-F43Jgdap797jiMIuX-StaMawsI4PreD1AIOPnyhIA6F2aPCiLcL88ZD37nzEwJM2nDzXGndbD7MtzJT_bA2vygtBAySJXRPxbW8PkUH3EFsRrr24iw
 - icon: github
   icon_pack: fab
   link: https://github.com/lailablomer
 - icon: gitlab
   icon_pack: fab
   link: https://gitlab.com/lailablomer
+- icon: researchgate # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Laila-Bloemer
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?hl=nl&user=hKJZHSIAAAAJ&view_op=list_works&gmla=AJsN-F43Jgdap797jiMIuX-StaMawsI4PreD1AIOPnyhIA6F2aPCiLcL88ZD37nzEwJM2nDzXGndbD7MtzJT_bA2vygtBAySJXRPxbW8PkUH3EFsRrr24iw
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/laila-bloemer/
