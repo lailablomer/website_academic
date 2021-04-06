@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Laila A. Blömer
+title: Laila Ananda Blömer
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: PhD Student in Biophysics
+role: PhD Student in Biophysics & Neuroscience
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -42,9 +42,9 @@ social:
 #- icon: envelope
 #  icon_pack: fas
 #  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
 - icon: researchgate # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
   link: https://www.researchgate.net/profile/Laila-Bloemer
@@ -54,6 +54,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/lailablomer
+- icon: gitlab
+  icon_pack: fab
+  link: https://gitlab.com/lailablomer
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/laila-bloemer/
