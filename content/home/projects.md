@@ -30,8 +30,8 @@ content:
     tag: '*'
   - name: PhD
     tag: PhD
-  - name: Other
-    tag: Demo
+  - name: Feed Your Brain
+    tag: fyb
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

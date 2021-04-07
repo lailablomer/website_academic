@@ -1,9 +1,9 @@
 ---
 title: PhD Thesis
-summary: ""
+summary: The Role of Voltage Gated Ion Channels in 5th Layer Pyramidal Neuron Action Potential Backpropagation
 tags:
 - PhD
-date: "2016-04-27T00:00:00Z"
+date: "2021-04-07T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -37,4 +37,3 @@ In my research, I am studying the behaviour of voltage-gated ion channels during
 To experimentally investigate the activity of individual ion channels, I am combining cutting-edge optical recordings with advanced pharmacological tools to selectively target individual types of ion channels, in particular with the use of photo-activable toxins developed by our collaborators. Optical measurements of calcium and voltage are performed in the dendrites of 5th layer pyramidal cells at 10-20 kHz, an acquisition rate that allows tracking the fast kinetics of voltage gated ion channels. The effect of blocking individual channels is measured at multiple locations along the dendrites. The purpose of these experiments is to produce a set of data and then to reproduce the experimental scenario with NEURON models where the parameters of ion channels are adjusted in order to extract the native behaviour of each channel, as well as their functional interactions. Notably, while an ion indicator provides direct information on the related ion channels, this approach also allows exploring the ion channels where an ion measurement is unavailable, in particular potassium channels. 
 
 Initially, I want to extract the patterns of ion channel behaviour under physiological conditions and later I want to study ion channel behaviours in various diseases. 
-
