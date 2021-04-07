@@ -1,5 +1,5 @@
 ---
-title: "An example conference paper"
+title: "Ultrafast Sodium Imaging of the Axon Initial Segment of Neurons in Mouse Brain Slices"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -42,7 +42,7 @@ featured: true
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
-#   url: http://example.org
+#   url: https://currentprotocols.onlinelibrary.wiley.com/doi/full/10.1002/cpz1.64
 
 url_pdf: https://currentprotocols.onlinelibrary.wiley.com/doi/epdf/10.1002/cpz1.64
 url_code: ''
@@ -50,15 +50,15 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: https://currentprotocols.onlinelibrary.wiley.com/doi/full/10.1002/cpz1.64
+url_source: ''
 url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ""
-  preview_only: false
+#image:
+#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+#  focal_point: ""
+#  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
