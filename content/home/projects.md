@@ -29,9 +29,9 @@ content:
   - name: All
     tag: '*'
   - name: PhD Thesis
-    tag: Pharmacology
+    tag: PhD
   - name: Feed Your Brain
-    tag: fyb
+    tag: FYB
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

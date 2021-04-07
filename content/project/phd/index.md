@@ -6,6 +6,7 @@ tags:
 - Voltage Gated Ion Channels
 - Electrophysiology
 - Pharmacology
+- PhD
 date: "2021-04-07T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
