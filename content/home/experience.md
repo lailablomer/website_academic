@@ -23,12 +23,12 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Teaching Experience
-  company: Université Grenoble Alpes
-  company_url: https://dlst.univ-grenoble-alpes.fr/
-  location: Grenoble, FR
-	date_start: '2019-01-01'
-	date_end: ""
-	description: Teaching bachelor students 'Experimental methods in cell biology and biochemistry'.
+    company: Université Grenoble Alpes
+    company_url: https://dlst.univ-grenoble-alpes.fr/
+    location: Grenoble, FR
+    date_start: '2020-01-01'
+    date_end: ''
+    description: Teaching bachelor students 'Experimental methods in cell biology and biochemistry'.
   - title: Analysis developer
     company: Heimel lab, Netherland Insititute for Neuroscience
     company_url: https://nin.nl/research/researchgroups/heimel-groep/
