@@ -29,7 +29,7 @@ content:
   - name: All
     tag: '*'
   - name: PhD Thesis
-    tag: PhD
+    tag: Pharmacology
   - name: Feed Your Brain
     tag: fyb
 
