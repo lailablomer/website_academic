@@ -2,7 +2,7 @@
 # An instance of the Portfolio widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: portfolio
-active: false
+active: true
 
 # This file represents a page section.
 headless: false
@@ -28,8 +28,8 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
+  - name: PhD
+    tag: PhD
   - name: Other
     tag: Demo
 
