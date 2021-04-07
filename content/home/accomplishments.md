@@ -33,13 +33,13 @@ item:
   title: Startup BrouwBrood
   url: https://therockgroup.biz/project/brouwbrood-bread/
 - certificate_url: ""
-  date_end: ""
+  date_end: "2017-02-01"
   date_start: "2016-09-01"
-  description: ""
+  description: Six months programming course focusing on data visualisation and heuristics in JavaScript, C++, PHP and Python.
   organization: Universiteit van Amsterdam
-  organization_url: ""
+  organization_url: https://www.uva.nl/
   title: Minor Programming
-  url: ""
+  url: https://www.proglab.nl/minoren/minprog/
 #- certificate_url: ""
 #  date_end: "2017_02_01"
 #  date_start: "2016-09-01"
