@@ -27,8 +27,8 @@ experience:
 	company_url: https://dlst.univ-grenoble-alpes.fr/
 	location: Grenoble, FR
 	date_start: '2019-01-01'
-	date_end: ''
-	desciption: Teaching bachelor students 'Experimental methods in cell biology and biochemistry'.
+	date_end: ""
+	description: Teaching bachelor students 'Experimental methods in cell biology and biochemistry'.
   - title: Analysis developer
     company: Heimel lab, Netherland Insititute for Neuroscience
     company_url: https://nin.nl/research/researchgroups/heimel-groep/
