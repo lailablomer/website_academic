@@ -24,7 +24,7 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://therockgroup.biz/project/brouwbrood-bread/
+- certificate_url: ""
   date_end: "2018-08-01"
   date_start: "2014-12-01"
   description: A circular economy startup, launched by four (then) bachelor students, producing bread by upcycling brewers spent grains, locally in Amsterdam. 
