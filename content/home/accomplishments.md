@@ -2,7 +2,7 @@
 # An instance of the Accomplishments widget.
 # Documentation: https://sourcethemes.com/academic/docs/page-builder/
 widget: accomplishments
-active: true 
+active: false 
 
 # This file represents a page section.
 headless: true
@@ -40,5 +40,4 @@ item:
   organization_url: https://www.uva.nl/
   title: Minor Programming
   url: https://www.proglab.nl/minoren/minprog/
-
 ---
