@@ -75,10 +75,8 @@ email: ""
 highlight_name: true
 ---
 
-In my PhD, I am studying the behavior of voltage-gated ion channels during action potential back-propagation layer-5 pyramidal cells. Under the supervision of [Dr. Marco Canepari](https://marco-canepari.wixsite.com/neuron-imaging-team/about_us), the goal of my project is to extract the diverse sodium, calcium and potassium currents underlying the action potential back-propagation.
+My name is Laila, welcome to this website! Currently, I am a PhD student in France, but my roots are in the Netherlands, where I did my bachelor studies majoring in neurobiology. Afterwards I persued a masters degree in London at UCL, going deeper into neuroscience. In my PhD, I am studying the behavior of voltage-gated ion channels during action potential back-propagation layer-5 pyramidal cells. Under the supervision of [Dr. Marco Canepari](https://marco-canepari.wixsite.com/neuron-imaging-team/about_us), the goal of my project is to extract the diverse sodium, calcium and potassium currents underlying the action potential back-propagation.
 
-To experimentally investigate the activity of individual ion channels, I am combining optical recordings with pharmacological tools to selectively target individual types of ion channels, in particular with the use of photo-activable toxins developed by our collaborators. The purpose of these experiments is to produce a set of data and then to reproduce the experimental scenario with [NEURON](https://neuron.yale.edu/neuron/) models in order to extract the native behavior of each channel, as well as their functional interactions.
-
-Initially, the goal is to extract the patterns of ion channel behavior under physiological conditions and afterwards I aim to study ion channel behaviors in various channelopathies.
+Besides my PhD, but very related, I am interested in how computational modelling and more ‘traditional’ experimental neuroscience can be used together to create innovative approaches to understand neuronal signalling. I am very keen to master new techniques from experts in the field and learn where experimental work and computational modelling meet. 
 
 If you are interested, you can {{< icon name="download" pack="fas" >}} download my {{< staticref "media/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
