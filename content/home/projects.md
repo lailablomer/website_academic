@@ -28,7 +28,7 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: PhD
+  - name: PhD Thesis
     tag: PhD
   - name: Feed Your Brain
     tag: fyb

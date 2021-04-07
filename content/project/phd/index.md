@@ -2,7 +2,10 @@
 title: PhD Thesis
 summary: The Role of Voltage Gated Ion Channels in 5th Layer Pyramidal Neuron Action Potential Backpropagation
 tags:
-- PhD
+- Pyramidal Neuron
+- Voltage Gated Ion Channels
+- Electrophysiology
+- Pharmacology
 date: "2021-04-07T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
