@@ -27,7 +27,7 @@ item:
 - certificate_url: ""
   date_end: "2018-08-01"
   date_start: "2014-12-01"
-  description: A circular economy startup, launched by four (then) bachelor students, producing bread by upcycling brewers spent grains, locally in Amsterdam. 
+  description: A circular economy startup, launched by four (then) bachelor students, producing bread by upcycling brewers spent grains, locally in Amsterdam. With BrouwBrood we were semi-finalist in the [Accenture Innovation Awards](https://www.accenture.com/ca-en/accenture-innovation-awards) in the category Fair Food (Sept 2016), and finalst in the [Amsterdam Science and Innovation Award](https://www.amsia.nl/) 2015 competition. 
   organization: TheRockGroup
   organization_url: https://therockgroup.biz/
   title: Startup BrouwBrood
