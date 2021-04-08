@@ -36,7 +36,7 @@ publishDate: "2020-03-03T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *eLifeSciences*
+publication: In *eLife Sciences Publications*
 publication_short: In *eLife*
 
 abstract: Witnessing another person’s suffering elicits vicarious brain activity in areas that are active when we ourselves are in pain. Whether this activity influences prosocial behavior remains the subject of debate. Here participants witnessed a confederate express pain through a reaction of the swatted hand or through a facial expression, and could decide to reduce that pain by donating money. Participants donate more money on trials in which the confederate expressed more pain. Electroencephalography shows that activity of the somatosensory cortex I (SI) hand region explains variance in donation. Transcranial magnetic stimulation (TMS) shows that altering this activity interferes with the pain–donation coupling only when pain is expressed by the hand. High-definition transcranial direct current stimulation (HD-tDCS) shows that altering SI activity also interferes with pain perception. These experiments show that vicarious somatosensory activations contribute to prosocial decision-making and suggest that they do so by helping to transform observed reactions of affected body-parts into accurate perceptions of pain that are necessary for decision-making.
