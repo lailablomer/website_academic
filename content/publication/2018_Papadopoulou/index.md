@@ -31,7 +31,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Journal of Neurology, Neurosurgery & Psychiatry*
-publication_short: In *Journal of Neurology, Neurosurgery & Psychiatry*
+publication_short: In *Journal of Neurology, Neurosurgery and Psychiatry*
 abstract: **Background** Huntington’s Disease (HD) is an inherited neurodegenerative disorder caused by the expansion of a CAG repeat in the HTT gene. We have recently shown that incomplete splicing of HTT mRNA, in both HD patients and mouse models, produces a HTTexon1 and Httexon1 transcript respectively, that is translated into the highly pathogenic exon 1 HTT protein.
 **Aims** The aim of this study was to investigate the role of this Httexon1 transcript in the pathogenesis of the disease, and to characterize primary cells from HD mouse models that could be used to screen for agents designed to lower the levels of the HTT transcripts.
 **Methods/techniques** We have established mouse embryonic fibroblasts (MEFs) from the zQ175 mouse model as well as deriving mouse cortical neuronal cultures. We have used our novel multiplex Quantigene assay, to measure the levels of all mouse Httexon1 and full-length Htt transcripts in these cells, and RNAscope to localize these transcripts. We have developed a TR-FRET assay that is specific for the exon 1 HTT protein. We have used immunoprecipitation western blot and TR-FRET to detect full-length and exon 1 HTT.
