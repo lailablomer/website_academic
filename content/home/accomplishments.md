@@ -27,7 +27,7 @@ item:
 - certificate_url: ""
   date_end: ""
   date_start: "2020-09-01"
-  description: L’Experimentation Animale pour les personnes concevant les Procédures Expérimentales aux animaux des especes rongeurs. Niveau 1 (concepteur 1 practicien). Course conforms with Cerfa 15012-02 and the European Union legislation [EU 2010/63](https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=LEGISSUM%3Asa0027). 
+  description: L’Experimentation Animale pour les personnes concevant les Procédures Expérimentales aux animaux des especes rongeurs. Niveau 1 (concepteur & practicien). Course conforms with Cerfa 15012-02 and the European Union legislation [EU 2010/63](https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=LEGISSUM%3Asa0027). 
   organization: Université Grenoble Alpes
   organization_url: https://chimie-biologie.univ-grenoble-alpes.fr/
   title: UE Animal License (Rodents)
