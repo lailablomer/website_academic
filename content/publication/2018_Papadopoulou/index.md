@@ -46,7 +46,7 @@ featured: true
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
-#   url: https://www.biorxiv.org/content/10.1101/2020.05.11.087825v1
+#   url: ''
 
 url_pdf: ''
 url_code: ''
@@ -54,7 +54,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: https://jnnp.bmj.com/content/89/Suppl_1/A26.2
+url_source: ''
 url_video: ''
 
 # Featured image
