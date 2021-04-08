@@ -54,7 +54,7 @@ featured: true
 # - name: Custom Link
 #   url: https://www.biorxiv.org/content/10.1101/2020.05.11.087825v1
 
-url_pdf: /content/publication/2018_Gallo/pdf.pdf
+url_pdf: https://elifesciences.org/download/aHR0cHM6Ly9jZG4uZWxpZmVzY2llbmNlcy5vcmcvYXJ0aWNsZXMvMzI3NDAvZWxpZmUtMzI3NDAtdjIucGRmP2Nhbm9uaWNhbFVyaT1odHRwczovL2VsaWZlc2NpZW5jZXMub3JnL2FydGljbGVzLzMyNzQw/elife-32740-v2.pdf?_hash=zTjeGutjNqFSw47XsqGgGLYZpxGOBN9eotAu349OzfE%3D
 url_code: ''
 url_dataset: https://zenodo.org/record/1213584
 url_poster: ''
