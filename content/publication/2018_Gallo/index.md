@@ -54,7 +54,7 @@ featured: true
 # - name: Custom Link
 #   url: https://www.biorxiv.org/content/10.1101/2020.05.11.087825v1
 
-url_pdf: pdf.pdf
+url_pdf: /content/publication/2018_Gallo/pdf.pdf
 url_code: ''
 url_dataset: https://zenodo.org/record/1213584
 url_poster: ''
