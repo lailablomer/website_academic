@@ -6,8 +6,8 @@ title: "Ultrafast Sodium Imaging of the Axon Initial Segment of Neurons in Mouse
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Luiza Filipis
 - Marco Canepari
+- Luiza Filipis
 
 # Author notes (optional)
 author_notes:
