@@ -55,7 +55,7 @@ featured: true
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
-url: https://www.nature.com/articles/s41467-022-27974-w
+# url: https://www.nature.com/articles/s41467-022-27974-w
 
 url_pdf: https://www.nature.com/articles/s41467-022-27974-w.pdf
 url_code: ''
