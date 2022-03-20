@@ -22,10 +22,13 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-- title: PhD Candidate
-  company: LIPhy
-  location: Grenoble, FR
-  date_start: '2019-09-01'
+  - title: PhD Candidate
+    company: Université Grenoble Alpes
+    company_url: https://dlst.univ-grenoble-alpes.fr/
+    location: Grenoble, FR
+    date_start: '2020-01-01'
+    date_end: ''
+    description: Theoretical 
   - title: Teaching Experience
     company: Université Grenoble Alpes
     company_url: https://dlst.univ-grenoble-alpes.fr/
