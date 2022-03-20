@@ -7,20 +7,26 @@ categories: []
 date: "2019-02-05T00:00:00Z"
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming
-  theme: league
+  theme: white
   # Choose a code highlighting style (if highlighting enabled in `params.toml`)
   #   Light style: github. Dark style: dracula (default).
   highlight_style: dracula
 ---
 
-# SK and BK Ca2+-activated K+ channels are triggered by different Ca2+ sources in the axon initial segment of neocortical layer-5 pyramidal neurons 
+# NERKA8 Poster
+Title: SK and BK Ca2+-activated K+ channels are triggered by different Ca2+ sources in the axon initial segment of neocortical layer-5 pyramidal neurons
 
-Laila BLÖMER, Luiza FILIPIS & Marco CANEPARI  
+Authors: Laila BLÖMER, Luiza FILIPIS & Marco CANEPARI  
 
 ---
 
 ## Abstract
-Voltage-gated Na+ channels (VGNCs) expressed in the axon initial segment (AIS) of neuronal cells mediate the Na+ current underlying the membrane potential (Vm) rise of the generating action potential (AP). It has been recently shown that in neocortical  layer-5 (L5) pyramidal neurons VGNCs also mediate Ca2+ influx (Hanemaaijer et al. Elife 9, e54566, 2020), thus potentially regulating the AP fall by activating Ca2+-activated K+ channels (CAKCs). Here, using Vm imaging of the AP in the AIS, we analysed the effect of locally inhibiting SK and BK CAKCs demonstrating that SK channels are exclusively activated by voltage-gated Ca2+ channels whereas BK channels are activated by another Ca2+ source.       
+- Voltage-gated Na+ channels (VGNCs) expressed in the axon initial segment (AIS) of neuronal cells mediate the Na+ current underlying the membrane potential (Vm) rise of the generating action potential (AP). 
+- It has been recently shown that in neocortical  layer-5 (L5) pyramidal neurons VGNCs also mediate Ca2+ influx, thus potentially regulating the AP fall by activating Ca2+-activated K+ channels (CAKCs). 
+
+---
+
+- Here, using Vm imaging of the AP in the AIS, we analysed the effect of locally inhibiting SK and BK CAKCs demonstrating that SK channels are exclusively activated by voltage-gated Ca2+ channels whereas BK channels are activated by another Ca2+ source.       
 
 
 ---
@@ -44,4 +50,4 @@ a, Left, fluorescence image (voltage sensitive dye JPW1114) of the AIS and its r
 
 
 {{< slide background-image="/media/NERKA8/results1.png" >}}
-
+---
