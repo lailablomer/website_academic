@@ -42,7 +42,7 @@ publication_types: ["2"]
 publication: In *Nature Communications*
 publication_short: In *Nature Communications*
 
-Photoactivatable drugs targeting ligand-gated ion channels open up new opportunities for light-guided therapeutic interventions. Photoactivable toxins targeting ion channels have the potential to control excitable cell activities with low invasiveness and high spatiotemporal precision. As proof-of-concept, we develop HwTxIV-Nvoc, a UV light-cleavable and photoactivatable peptide that targets voltage-gated sodium (NaV) channels and validate its activity in vitro in HEK293 cells, ex vivo in brain slices and in vivo on mice neuromuscular junctions. We find that HwTxIV-Nvoc enables precise spatiotemporal control of neuronal NaV channel function under all conditions tested. By creating multiple photoactivatable toxins, we demonstrate the broad applicability of this toxin-photoactivation technology.
+abstract: Photoactivatable drugs targeting ligand-gated ion channels open up new opportunities for light-guided therapeutic interventions. Photoactivable toxins targeting ion channels have the potential to control excitable cell activities with low invasiveness and high spatiotemporal precision. As proof-of-concept, we develop HwTxIV-Nvoc, a UV light-cleavable and photoactivatable peptide that targets voltage-gated sodium (NaV) channels and validate its activity in vitro in HEK293 cells, ex vivo in brain slices and in vivo on mice neuromuscular junctions. We find that HwTxIV-Nvoc enables precise spatiotemporal control of neuronal NaV channel function under all conditions tested. By creating multiple photoactivatable toxins, we demonstrate the broad applicability of this toxin-photoactivation technology.
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -55,7 +55,7 @@ featured: true
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
-#   url: https://www.nature.com/articles/s41467-022-27974-w
+url: https://www.nature.com/articles/s41467-022-27974-w
 
 url_pdf: https://www.nature.com/articles/s41467-022-27974-w.pdf
 url_code: ''
