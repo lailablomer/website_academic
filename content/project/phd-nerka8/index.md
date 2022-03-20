@@ -1,6 +1,6 @@
 ---
-title: SK and BK Ca2+-activated K+ channels are triggered by different Ca2+ sources in the axon initial segment of neocortical layer-5 pyramidal neurons
-summary: NERKA8 Neuroscience summer school in Kotor, Montenegro 2021
+title: NERKA8 Neuroscience summer school in Kotor, Montenegro 2021
+summary: SK and BK Ca2+-activated K+ channels are triggered by different Ca2+ sources in the axon initial segment of neocortical layer-5 pyramidal neurons
 tags:
 - Neuroscience
 - Summer School

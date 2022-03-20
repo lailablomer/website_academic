@@ -1,6 +1,6 @@
 ---
-title: L-type and N-type calcium channels activation of K+ channels regulates dendritic action potential back-propagation in layer-5 neocortical pyramidal neurons
-summary: LabEx ICST meeting in Nantes, France
+title: LabEx ICST meeting in Nantes, France 2021
+summary: L-type and N-type calcium channels activation of K+ channels regulates dendritic action potential back-propagation in layer-5 neocortical pyramidal neurons
 tags:
 - Voltage Gated Ion Channels
 - Electrophysiology
