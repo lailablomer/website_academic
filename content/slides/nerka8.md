@@ -1,6 +1,6 @@
 ---
 title: NERKA8 Summer school poster
-summary: An introduction to using Wowchemy's Slides feature.
+summary: ""
 authors: []
 tags: []
 categories: []
@@ -28,25 +28,24 @@ Authors: Laila BLÖMER, Luiza FILIPIS & Marco CANEPARI
 
 ---
 
-## Materials & Methods
-
 {{< slide background-image="/media/NERKA8/methods.png" >}}
+
+## Materials & Methods
 
 
 ---
-'''
+
+{{< slide background-image="/media/NERKA8/results1.png" >}}
+
 ## Results #1
 Analysis of the effect of blocking SK CAKCs or BK CAKCs on the AP waveform in the AIS
 
-{{< slide background-image="/media/NERKA8/results1.png" >}}
 
 ---
 
-## Results #1
+{{< slide background-image="/media/NERKA8/results1.png" >}}
+
+## Results #2
 a, Left, fluorescence image (voltage sensitive dye JPW1114) of the AIS and its reconstruction with a proximal region (1) and a distal (2) region indicated; a somatic AP before and after locally delivering 1 µM of the SK CAKC inhibitor apamin (apam) is reported below.  Right, Somatic AP in control solution and after apamin delivery and associated Vm transients in 1 and 2. b, In another cell, same experimental protocol of panel a but by locally delivering 1 µM of the BK CAKC inhibitor iberiotoxin (ibtx). c, In another cell, same experimental protocol of panel a but by sequentially blocking first VGCCs only and then VGCCs and SK CAKCs with additional apamin. d, In another cell, same experimental protocol of panel a but by sequentially blocking first VGCCs only and then VGCCs and BK CAKCs with additional iberiotoxin.
 
-
-{{< slide background-image="/media/NERKA8/results1.png" >}}
-
 ---
-''' 
