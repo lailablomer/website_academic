@@ -1,23 +1,36 @@
 ---
-title: "Ultrafast Sodium Imaging of the Axon Initial Segment of Neurons in Mouse Brain Slices"
+title: "In vivo spatiotemporal control of voltage-gated ion channels by using photoactivatable peptidic toxins"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
+- Jérôme Montnach
 - admin
+- Ludivine Lopez
+- Luiza Filipis 
+- Hervé Meudal
+- Aude Lafoux
+- Sébastien Nicolas
+- Duong Chu
+- Cécile Caumes
+- Rémy Béroud
+- Chris Jopling
+- Frank Bosmans
+- Corinne Huchet
+- Céline Landon 
 - Marco Canepari
-- Luiza Filipis
+- Michel De Waard
 
 # Author notes (optional)
 author_notes:
 - ""
 
 date: "2021-03-03T00:00:00Z"
-doi: 10.1002/cpz1.64
+doi: 10.1038/s41467-022-27974-w
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-03-03T00:00:00Z"
+publishDate: "2022-01-20T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,10 +39,10 @@ publishDate: "2020-03-03T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Current Protocols*
-publication_short: In *Current Protocols*
+publication: In *Nature Communications*
+publication_short: In *Nature Communications*
 
-abstract: Monitoring Na+ influx in the axon initial segment (AIS) at high spatial and temporal resolution is fundamental to understanding the generation of an action potential (AP). Here, we present protocols to obtain this measurement, focusing on the AIS of layer 5 (L5) somatosensory cortex pyramidal neurons in mouse brain slices. We first outline how to prepare slices for this application, how to select and patch neurons, and how to optimize the image acquisition. Specifically, we describe the preparation of optimal slices, patching and loading of L5 pyramidal neurons with the Na+ indicator ING-2, and Na+ imaging at 100 µs temporal resolution with a pixel resolution of half a micron. Then, we present a data analysis strategy in order to extract information on the kinetics of activated voltage‐gated Na+ channels by determining the change in Na+ by compensating for bleaching and calculating the time derivative of the resulting fit. In sum, this approach can be widely applied when investigating the function of Na+ channels during initiation of an AP and propagation under physiological or pathological conditions in neuronal subtypes.
+Photoactivatable drugs targeting ligand-gated ion channels open up new opportunities for light-guided therapeutic interventions. Photoactivable toxins targeting ion channels have the potential to control excitable cell activities with low invasiveness and high spatiotemporal precision. As proof-of-concept, we develop HwTxIV-Nvoc, a UV light-cleavable and photoactivatable peptide that targets voltage-gated sodium (NaV) channels and validate its activity in vitro in HEK293 cells, ex vivo in brain slices and in vivo on mice neuromuscular junctions. We find that HwTxIV-Nvoc enables precise spatiotemporal control of neuronal NaV channel function under all conditions tested. By creating multiple photoactivatable toxins, we demonstrate the broad applicability of this toxin-photoactivation technology.
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -42,9 +55,9 @@ featured: true
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
-#   url: https://currentprotocols.onlinelibrary.wiley.com/doi/full/10.1002/cpz1.64
+#   url: https://www.nature.com/articles/s41467-022-27974-w
 
-url_pdf: https://currentprotocols.onlinelibrary.wiley.com/doi/epdf/10.1002/cpz1.64
+url_pdf: https://www.nature.com/articles/s41467-022-27974-w.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
