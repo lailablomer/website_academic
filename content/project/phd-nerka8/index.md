@@ -1,6 +1,6 @@
 ---
-title: Neuroscience Summer School 2021 
-summary: NERKA8 in Kotor, Montenegro
+title: NERKA8 Summer School 2021
+summary: Neuroscience summer school in Kotor, Montenegro
 tags:
 - Neuroscience
 - Summer School
@@ -8,7 +8,7 @@ tags:
 - Electrophysiology
 - Pharmacology
 - PhD
-date: "2021-04-07T00:00:00Z"
+date: "2021-09-07T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -32,7 +32,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: ""
+slides  = nerka8
 ---
 
 NERKA8 is a bianual summer school in Kotor, Montenegro, organised by the Faculty of Biology University of Belgrade within the NENS School PhD program on Neurobiology. This school covered the topic of Ion Channels and Neuronal Excitability – techniques, modeling, physiology & pathology.
