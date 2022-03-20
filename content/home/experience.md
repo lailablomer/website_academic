@@ -28,14 +28,14 @@ experience:
     location: Grenoble, FR
     date_start: '2019-09-01'
     date_end: '2022-12-31'
-    description: My thesis is titled *The Role of Voltage Gated Ion Channels during Action Potential Backpropagation in Neocortex Pyramidal Neurons*. See section Projects for a detailed description of my PhD thesis and an overview of my presented work. Techniques mastered during this thesis are patch clamp simultaneously with fluorescence microscopy, single cell modelling in NEURON and statistical analysis in MATLAB.
+    description: My thesis is titled **The Role of Voltage Gated Ion Channels during Action Potential Backpropagation in Neocortex Pyramidal Neurons**. See section *Projects* for a detailed description of my PhD thesis and an overview of my presented work. Techniques mastered during this thesis are patch clamp simultaneously with fluorescence microscopy, single cell modelling in NEURON and statistical analysis in MATLAB.
   - title: Teaching Experience
     company: Université Grenoble Alpes
     company_url: https://dlst.univ-grenoble-alpes.fr/
     location: Grenoble, FR
     date_start: '2020-01-01'
     date_end: ''
-    description: Theoretical and practical course on 'Experimental methods in cell biology and biochemistry', for License 1 students, the French equivalent of the first year of the European Bachelor of Science degree. Experimental techniques include affinity chromatography, electrophoresis, dialysis, microscopy and histology.
+    description: Theoretical and practical course on *Experimental methods in cell biology and biochemistry*, for License 1 students, the French equivalent of the first year of the European Bachelor of Science degree. Experimental techniques include affinity chromatography, electrophoresis, dialysis, microscopy and histology.
   - title: Analysis developer
     company: Heimel lab, Netherland Insititute for Neuroscience
     company_url: https://nin.nl/research/researchgroups/heimel-groep/
