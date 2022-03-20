@@ -106,7 +106,7 @@ slides:
 
 ---
 
-## Conclusion
+## Conclusions
 - The widening effects produced by apamin were similar to those produced by blocking VGCCs. 
 - When VGCCs were previously blocked, however, further addition of apamin did not change the ∫Vm signal. 
 - In contrast, further addition of iberiotoxin increased the ∫Vm signal by ~12% at the proximal AIS sites and by ~21% at the distal AIS sites. 
