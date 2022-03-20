@@ -27,7 +27,7 @@ experience:
     company_url: https://www-liphy.univ-grenoble-alpes.fr/?lang=fr
     location: Grenoble, FR
     date_start: '2019-09-01'
-    date_end: ''
+    date_end: '2022-12-31'
     description: Theoretical 
   - title: Teaching Experience
     company: Université Grenoble Alpes
