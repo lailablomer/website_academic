@@ -1,5 +1,5 @@
 ---
-title: LabEx Meeting 2021
+title: Poster LabEx meeting 2021
 summary: ""
 authors: []
 tags: []
@@ -13,7 +13,7 @@ slides:
   highlight_style: github
 ---
 
-# LabEx Meeting 2021
+# Poster LabEx meeting 2021
 **L-type and N-type calcium channels activation of K+ channels regulates dendritic action potential back-propagation in layer-5 neocortical pyramidal neurons** 
 
 *Laila BLÖMER, Luiza FILIPIS & Marco CANEPARI*
@@ -38,6 +38,26 @@ slides:
 ---
 
 {{< slide background-image="/media/nantes21/methods2.png" >}}
+
+
+---
+
+{{< slide background-image="/media/nantes21/results1.png" >}}
+
+
+---
+
+{{< slide background-image="/media/nantes21/results2.png" >}}
+
+
+---
+
+{{< slide background-image="/media/nantes21/results3.png" >}}
+
+
+---
+
+{{< slide background-image="/media/nantes21/results4.png" >}}
 
 
 ---
