@@ -32,7 +32,12 @@ slides:
 --- 
 
 
-{{< slide background-image="/media/nantes21/methods.png" >}}
+{{< slide background-image="/media/nantes21/methods1.png" >}}
+
+
+---
+
+{{< slide background-image="/media/nantes21/methods2.png" >}}
 
 
 ---
@@ -44,11 +49,11 @@ slides:
 
 ---
 
-## Perspectives 
+## Perspectives #1
 The present results suggest that N-type channels open fast compared to other VGCCs, as we observed that the total calcium current peaks 0.7 ms after the bAP peak and contributes little to the AP peak. They also point to a possible coupling with BK and SK channels where calcium directly activates CaKCs. 
 
 ---
-
+## Perspectives #2
 Further investigations including the other VGCCs will shed light on the mechanisms underlying the regulation of the back-propagating potential. In addition, computational modelling in NEURON will help us better understand the role of N-type channels during AP backpropagation.
 
 
