@@ -30,24 +30,27 @@ Authors: Laila BLÖMER, Luiza FILIPIS & Marco CANEPARI
 
 ---
 
-{{< slide background-image="/media/NERKA8/methods-wbg.png" >}}
+{{< slide background-image="/media/NERKA8/methods.png" >}}
 
 ## Materials & Methods
 
 ---
 
-{{< slide background-image="/media/NERKA8/methods2.png" >}}
+{{< slide background-image="/media/NERKA8/methods.png" >}}
 
 ## Materials & Methods
+
+```markdown
+{{</* Experiments were performed on brain slices (300  µm thick) obtained from 21-35 postnatal days mice (C57BL/6j). Layer-5 (L5) necortical pyramidal neurons (somatosensory cortex) were filled with the voltage sensitive dye JPW1114 via a whole-cell patch clamp recording also used to inject current pulses and to monitor somatic Vm. */>}}
+{{</* Vm fluorescence was excited with a laser at 530 nm and recorded at >610 nm with a camera (either CCD or CMOS) In the recording protocol, images of ~64X15 µm2 comprising the AIS are acquired at the frame rate of 10-20 kHz; to unambiguously distinguish signals from proximal and distal areas of the AIS, with respect to the soma, we systematically analysed every signal in a region of 5 µm at a position “1”, within 5 and 15 µm from the soma and in a region of 5 µm at a position “2”, within 30 and 40 µm from the soma; on the top, an AP is elicited and recorded at the soma (at 20 kHz) and the voltage sensitive dye fluorescence signals at positions 1 and 2 are reported. The AP in the distal part of the AIS has shorter duration with respect  to the somatic AP. */>}}
+```
 
 ---
 
 {{< slide background-image="/media/NERKA8/results1.png" >}}
 
 ## Results #1
-```markdown
-Analysis of the effect of blocking SK CAKCs or BK CAKCs on the AP waveform in the AIS
-```
+
 
 ---
 
