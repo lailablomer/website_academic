@@ -29,6 +29,8 @@ slides:
 - Neocortical layer-5 (L5) pyramidal neurons express a diverse voltage gated ion channels, including high and low voltage activated Ca²⁺ channels (VGCCs) , a Na+ channel (Nav1.2), Ca²⁺-activated K+ channels (CaKCs: SK and BK), and voltage activated K+ channels. 
 - Here we present data on how N- and L-type calcium channels can regulate bAPs through an interplay with Ca²⁺-activated potassium channels.
 
+---
+## Methods
 --- 
 
 
