@@ -36,3 +36,5 @@ slides: nerka8
 ---
 
 NERKA8 is a bianual summer school in Kotor, Montenegro, organised by the Faculty of Biology University of Belgrade within the NENS School PhD program on Neurobiology. This school covered the topic of Ion Channels and Neuronal Excitability – techniques, modeling, physiology & pathology.
+
+During the school I presented a poster titled *SK and BK Ca2+-activated K+ channels are triggered by different Ca2+ sources in the axon initial segment of neocortical layer-5 pyramidal neurons*. For the full poster see Slides at the top of this page. 
