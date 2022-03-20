@@ -32,7 +32,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides  = nerka8
+slides: nerka8
 ---
 
 NERKA8 is a bianual summer school in Kotor, Montenegro, organised by the Faculty of Biology University of Belgrade within the NENS School PhD program on Neurobiology. This school covered the topic of Ion Channels and Neuronal Excitability – techniques, modeling, physiology & pathology.
