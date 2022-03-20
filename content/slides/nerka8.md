@@ -30,7 +30,7 @@ Authors: Laila BLÖMER, Luiza FILIPIS & Marco CANEPARI
 
 ---
 
-{{< slide background-image="/media/NERKA8/methods1.png" >}}
+{{< slide background-image="/media/NERKA8/methods1.png" width = "100%" >}}
 
 ## Materials & Methods
 
