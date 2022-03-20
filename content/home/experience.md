@@ -42,7 +42,7 @@ experience:
     location: London, UK
     date_start: '2018-01-01'
     date_end: '2018-08-01'
-    description: I established and maintained primary cortical cultures of various mouse model for Huntington’s Disease. Also, I performed molecular characterisation to study incomplete splicing, alternative polyadenylation and Huntingtin aggregation.
+    description: Huntingon’s Disease (HD) is a devastating autosomal dominant disorder caused by the expansion of a CAG-repeat in exon 1 of the huntingtin gene encoding HTT. Previously, it was shown that the most toxic variant of HTT is an N-terminal fragment containing Exon 1 of HTT. It was proposed that incomplete splicing of the mutant Htt transcript results in this small protein. In HD mouse models and HD patients, incomplete splicing generates a small Htt exon 1 transcript. The aim of my thesis was to generate primary cortical cultures from zQ175 knock-in mice, a HD mouse model, to study incomplete splicing. Techniques included mouse colony maintenance and disection, primary cell culture, immunocytochemistry, qRT-PCR, Western blot and statistical analysis.
 #description: |2-
 #        Responsibilities include:
 #        
