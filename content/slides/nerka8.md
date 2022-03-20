@@ -32,34 +32,81 @@ Authors: Laila BLÖMER, Luiza FILIPIS & Marco CANEPARI
 
 ## Materials & Methods
 
-- Experiments were performed on brain slices (300  µm thick) obtained from 21-35 postnatal days mice (C57BL/6j). Layer-5 (L5) necortical pyramidal neurons (somatosensory cortex) were filled with the voltage sensitive dye JPW1114 via a whole-cell patch clamp recording also used to inject current pulses and to monitor somatic Vm.
+- Experiments were performed on brain slices (300  µm thick)from 21-35 day old mice. L5 pyramidal neurons were filled with voltage sensitive dye via a whole-cell patch clamp recording also used to inject current pulses and to monitor somatic Vm.
 - Vm fluorescence was excited with a laser at 530 nm and recorded at >610 nm with a camera (either CCD or CMOS).
 
 ---
 
-- In the recording protocol, images of ~64X15 µm2 comprising the AIS are acquired at the frame rate of 10-20 kHz.  
-- To unambiguously distinguish signals from proximal and distal areas of the AIS, with respect to the soma, we systematically analysed every signal in a region of 5 µm at a position “1”, within 5 and 15 µm from the soma and in a region of 5 µm at a position “2”, within 30 and 40 µm from the soma.
+- Images of ~64X15 µm2 comprising the AIS were acquired at 10-20 kHz.  
+- To distinguish signals from proximal and distal areas of the AIS, with respect to the soma, we  analysed every signal in a region of 5 µm at a position “1”, within 5 and 15 µm from the soma and in a region of 5 µm at a position “2”, within 30 and 40 µm from the soma.
 
 ---
 
 {{< slide background-image="/media/NERKA8/methods.png" >}}
 
-
 ---
 
 ## Results #1
+
+---
+
+{{< slide background-image="/media/NERKA8/results1-wbg.png" >}}
+
+---
+## Results #1
+
 - a, Left, fluorescence image (voltage sensitive dye JPW1114) of the AIS and its reconstruction with a proximal region (1) and a distal (2) region indicated; a somatic AP before and after locally delivering 1 µM of the SK CAKC inhibitor apamin (apam) is reported below.  Right, Somatic AP in control solution and after apamin delivery and associated Vm transients in 1 and 2. 
 - b, In another cell, same experimental protocol of panel a but by locally delivering 1 µM of the BK CAKC inhibitor iberiotoxin (ibtx). 
 
 ---
 
-{{< slide background-image="/media/NERKA8/results1.png" >}}
+## Results #2
 
 ---
 
+{{< slide background-image="/media/NERKA8/results2-wbg.png" >}}
 
+---
 ## Results #2
 
-c, In another cell, same experimental protocol of panel a but by sequentially blocking first VGCCs only and then VGCCs and SK CAKCs with additional apamin. d, In another cell, same experimental protocol of panel a but by sequentially blocking first VGCCs only and then VGCCs and BK CAKCs with additional iberiotoxin.
+- c, In another cell, same experimental protocol of panel a but by sequentially blocking first VGCCs only and then VGCCs and SK CAKCs with additional apamin. 
+- d, In another cell, same experimental protocol of panel a but by sequentially blocking first VGCCs only and then VGCCs and BK CAKCs with additional iberiotoxin.
+
+
+---
+
+## Results #3
+
+---
+
+{{< slide background-image="/media/NERKA8/results3-wbg.png" >}}
+
+---
+
+{{< slide background-image="/media/NERKA8/results3-wbg.png" >}}
+
+## Results #3
+- e, Quantification of the AP waveform shape by calculation of Vm integral (∫Vm) over the 2.4 ms time window comprising the AP signal.
+
+
+---
+
+## Results #4
+
+---
+
+{{< slide background-image="/media/NERKA8/results4-wbg.png" >}}
+
+---
+## Results #4
+
+
+- f, Top, single values and percentage change of the proximal  ∫Vm signal maximum after delivering apamin (N = 7 cells), iberiotoxin (N = 7 cells) or the cocktail of VGCCs blockers (N = 14 cells). Bottom, in the same cells, single values and percentage change of the distal ∫Vm signal maximum after delivering apamin, iberiotoxin or the cocktail of VGCCs blockers. 
+- g, Top, with respect to the block of VGCCs, single values and percentage change of the proximal  ∫Vm signal maximum after delivering apamin (N = 7 cells) or iberiotoxin (N = 7 cells). Bottom, in the same cells, single values and percentage change of the distal ∫Vm signal maximum after delivering apamin or iberiotoxin. "*" indicates significant change (p<0.01, paired t-test).
+
+---
+
+## Conclusion
+
 
 ---
