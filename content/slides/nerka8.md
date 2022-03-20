@@ -114,3 +114,5 @@ slides:
 
 
 ---
+
+{{< slide background-image="/media/NERKA8/poster1-wbg.png" >}}
