@@ -101,12 +101,16 @@ slides:
 ## Results #4
 
 
-- f, Top, single values and percentage change of the proximal  ∫Vm signal maximum after delivering apamin (N = 7 cells), iberiotoxin (N = 7 cells) or the cocktail of VGCCs blockers (N = 14 cells). Bottom, in the same cells, single values and percentage change of the distal ∫Vm signal maximum after delivering apamin, iberiotoxin or the cocktail of VGCCs blockers. 
-- g, Top, with respect to the block of VGCCs, single values and percentage change of the proximal  ∫Vm signal maximum after delivering apamin (N = 7 cells) or iberiotoxin (N = 7 cells). Bottom, in the same cells, single values and percentage change of the distal ∫Vm signal maximum after delivering apamin or iberiotoxin. "*" indicates significant change (p<0.01, paired t-test).
+- f, Top, single values and percentage change of the proximal ∫Vm signal maximum after delivering apamin, iberiotoxin or the cocktail of VGCCs blockers. Bottom, in the same cells, single values and percentage change of the distal ∫Vm signal maximum after delivering drugs. 
+- g, Top, with respect to the block of VGCCs, single values and percentage change of the proximal  ∫Vm signal maximum after delivering apamin or iberiotoxin. Bottom, in the same cells, single values and percentage change of the distal ∫Vm signal maximum after delivering apamin or iberiotoxin. "*" significant change (p<0.01, paired t-test).
 
 ---
 
 ## Conclusion
+- The widening effects produced by apamin were similar to those produced by blocking VGCCs. 
+- When VGCCs were previously blocked, however, further addition of apamin did not change the ∫Vm signal. 
+- In contrast, further addition of iberiotoxin increased the ∫Vm signal by ~12% at the proximal AIS sites and by ~21% at the distal AIS sites. 
+- We conclude that SK CAKCs are activated exclusively by VGCCs, whereas BK CAKCs are also activated by the other Ca2+ source, i.e. by VGNCs.   
 
 
 ---
