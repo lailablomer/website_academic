@@ -7,16 +7,16 @@ categories: []
 date: "2019-02-05T00:00:00Z"
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming
-  theme: white
+  theme: beige
   # Choose a code highlighting style (if highlighting enabled in `params.toml`)
   #   Light style: github. Dark style: dracula (default).
   highlight_style: dracula
 ---
 
 # NERKA8 Poster
-Title: SK and BK Ca2+-activated K+ channels are triggered by different Ca2+ sources in the axon initial segment of neocortical layer-5 pyramidal neurons
+**SK and BK Ca2+-activated K+ channels are triggered by different Ca2+ sources in the axon initial segment of neocortical layer-5 pyramidal neurons** 
 
-Authors: Laila BLÖMER, Luiza FILIPIS & Marco CANEPARI  
+*Laila BLÖMER, Luiza FILIPIS & Marco CANEPARI*
 
 ---
 
