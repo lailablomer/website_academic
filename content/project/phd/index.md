@@ -19,7 +19,7 @@ image:
 links:
 - icon: info-circle
   icon_pack: fas
-  name: Info
+  name: Team website
   url: https://marco-canepari.wixsite.com/neuron-imaging-team/about_us
 url_code: ""
 url_pdf: ""

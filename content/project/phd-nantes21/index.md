@@ -19,7 +19,7 @@ links:
 - icon: info-circle
   icon_pack: fas
   name: LabEx Link
-  url: https://www.labex-icst.fr/fr
+  url: https://www.labex-icst.fr/en
 url_code: ""
 url_pdf: ""
 url_slides: ""

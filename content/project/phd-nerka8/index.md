@@ -20,7 +20,7 @@ image:
 links:
 - icon: info-circle
   icon_pack: fas
-  name: Info
+  name: School link
   url: http://clm.bio.bg.ac.rs/2021/09/24/nerka8-summary/
 url_code: ""
 url_pdf: ""
