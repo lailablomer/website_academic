@@ -23,13 +23,13 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: PhD Candidate
-  company: Laboratoire Interdisciplinaire de la Physique
-  company_url: https://www-liphy.univ-grenoble-alpes.fr/?lang=fr
-  location: Grenoble, FR
-  date_start: '2019-09-01'
-  date_end: '2022-12-31'
-  description: My thesis is titled 'The Role of Voltage Gated Ion Channels during Action Potential Backpropagation in Neocortex Pyramidal Neurons'. See section Projects for a detailed description of my PhD thesis and an overview of my presented work. Techniques mastered during this thesis are patch clamp simultaneously with fluorescence microscopy, single cell modelling in NEURON and statistical analysis in MATLAB.
-  - title: Teaching Experience
+	company: Laboratoire Interdisciplinaire de la Physique
+	company_url: https://www-liphy.univ-grenoble-alpes.fr/?lang=fr
+	location: Grenoble, FR
+	date_start: '2019-09-01'
+	date_end: '2022-12-31'
+	description: My thesis is titled 'The Role of Voltage Gated Ion Channels during Action Potential Backpropagation in Neocortex Pyramidal Neurons'. See section Projects for a detailed description of my PhD thesis and an overview of my presented work. Techniques mastered during this thesis are patch clamp simultaneously with fluorescence microscopy, single cell modelling in NEURON and statistical analysis in MATLAB.
+  - title: University Teacher 
     company: Université Grenoble Alpes
     company_url: https://dlst.univ-grenoble-alpes.fr/
     location: Grenoble, FR
