@@ -12,7 +12,7 @@ date: "2021-11-07T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Group picture NERKA8
+  caption: Poster for LabEx meeting 2021
   focal_point: Smart
 
 links:
