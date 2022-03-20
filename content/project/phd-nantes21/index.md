@@ -1,5 +1,5 @@
 ---
-title: LabEx meeting 2021
+title: L-type and N-type calcium channels activation of K+ channels regulates dendritic action potential back-propagation in layer-5 neocortical pyramidal neurons
 summary: LabEx ICST meeting in Nantes, France
 tags:
 - Voltage Gated Ion Channels
