@@ -22,13 +22,20 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: PhD Candidate
+    company: Laboratoire Interdisciplinaire de la Physique
+    company_url: https://www-liphy.univ-grenoble-alpes.fr/?lang=fr
+    location: Grenoble, FR
+    date_start: '2019-09-01'
+    date_end: '2022-12-31'
+    description: My thesis is titled **The Role of Voltage Gated Ion Channels during Action Potential Backpropagation in Neocortex Pyramidal Neurons**. See section *Projects* for a detailed description of my PhD thesis and an overview of my presented work. Techniques mastered during this thesis are patch clamp simultaneously with fluorescence microscopy, single cell modelling in NEURON and statistical analysis in MATLAB.
   - title: Teaching Experience
     company: Université Grenoble Alpes
     company_url: https://dlst.univ-grenoble-alpes.fr/
     location: Grenoble, FR
     date_start: '2020-01-01'
     date_end: ''
-    description: Theoretical and practical course on 'Experimental methods in cell biology and biochemistry'.
+    description: Theoretical and practical course on *Experimental methods in cell biology and biochemistry*, for License 1 students, the French equivalent of the first year of the European Bachelor of Science degree. Experimental techniques include affinity chromatography, electrophoresis, dialysis, microscopy and histology.
   - title: Analysis developer
     company: Heimel lab, Netherland Insititute for Neuroscience
     company_url: https://nin.nl/research/researchgroups/heimel-groep/
@@ -42,7 +49,7 @@ experience:
     location: London, UK
     date_start: '2018-01-01'
     date_end: '2018-08-01'
-    description: I established and maintained primary cortical cultures of various mouse model for Huntington’s Disease. Also, I performed molecular characterisation to study incomplete splicing, alternative polyadenylation and Huntingtin aggregation.
+    description: Huntingon’s Disease (HD) is a devastating autosomal dominant disorder caused by the expansion of a CAG-repeat in exon 1 of the huntingtin gene encoding HTT. Previously, it was shown that the most toxic variant of HTT is an N-terminal fragment containing Exon 1 of HTT. It was proposed that incomplete splicing of the mutant Htt transcript results in this small protein. In HD mouse models and HD patients, incomplete splicing generates a small Htt exon 1 transcript. The aim of my thesis was to generate primary cortical cultures from zQ175 knock-in mice, a HD mouse model, to study incomplete splicing. Techniques included mouse colony maintenance and disection, primary cell culture, immunocytochemistry, qRT-PCR, Western blot and statistical analysis.
 #description: |2-
 #        Responsibilities include:
 #        
