@@ -1,6 +1,6 @@
 ---
 title: Nav1.2RESCUE
-summary: 
+summary: ANR project with the aim to develop drugs and strategies for counteracting reduced NaV1.2 function and negative dominance due to loss-of-function mutations in the Nav1.2 channel
 tags:
 - Pyramidal Neuron
 - Voltage Gated Ion Channels
