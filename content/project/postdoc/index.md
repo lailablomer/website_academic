@@ -7,7 +7,7 @@ tags:
 - Epilepsy
 - Channelopathies
 - postdoc
-- Nav1.2
+- Nav1.2RESCUE
 date: "2021-04-07T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -39,6 +39,6 @@ Neurodevelopmental disorders are characterized by neuropsychiatric illnesses, in
 Performing functional studies of human mutations in transfected cells, it has been proposed that LICND mutations induce reduction of NaV1.2 function. The lab of Dr Massimo Mantegazza has discovered a novel pathological mechanism for mutations causing LICND with severe ASD: they do not induce just pure loss of function, but cause negative dominance (NegD) on wild-type channels, leading to >50% total reduction of NaV1.2 function in heterozygosis. Importantly, there are no effective treatments for LICND, which are caused by loss of function or NegD of NaV1.2. Na+ channel blockers, which are not isoform specific, have been used for decades to treat epilepsy and other neurological diseases, but they worsen the phenotype of LICND patients, and no NaV1.2 enhancers are available for increasing its function. Moreover, mechanisms linking reduced NaV1.2 function and clinical phenotypes are not completely understood yet. This contrasts with NaV1.2 mutations that cause gain of function, identified in epileptic patients showing neonatal-infantile onset that often can be treated with classical Na+ channel blocker antiepileptic drugs.
 
 The objectives of NaV1.2RESCUE are to:
-1. develop drugs and strategies for counteracting reduced NaV1.2 function and NegD (novel therapeutic target completely unexplored thus far), which are unavailable and could be used to treat severe LICND;
-2. exploit established and develop new gene targeted animal models of NaV1.2 loss of function and NegD, studying effects of treatments and pathological mechanisms;
-3. use novel cutting-edge imaging techniques for studying detailed mechanisms and evaluate effects of treatments, optically measuring Na+ currents in neuronal sub-compartments.
+- develop drugs and strategies for counteracting reduced NaV1.2 function and NegD (novel therapeutic target completely unexplored thus far), which are unavailable and could be used to treat severe LICND;
+- exploit established and develop new gene targeted animal models of NaV1.2 loss of function and NegD, studying effects of treatments and pathological mechanisms;
+- use novel cutting-edge imaging techniques for studying detailed mechanisms and evaluate effects of treatments, optically measuring Na+ currents in neuronal sub-compartments.
