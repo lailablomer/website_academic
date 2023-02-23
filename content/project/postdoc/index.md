@@ -4,8 +4,8 @@ summary:
 tags:
 - Pyramidal Neuron
 - Voltage Gated Ion Channels
-- Electrophysiology
-- Pharmacology
+- Epilepsy
+- Channelopathies
 - postdoc
 - Nav1.2
 date: "2021-04-07T00:00:00Z"
@@ -20,8 +20,8 @@ image:
 links:
 - icon: info-circle
   icon_pack: fas
- # name: Team website
- # url: https://marco-canepari.wixsite.com/neuron-imaging-team/about_us
+ name: ANR
+ url: https://anr.fr/Project-ANR-21-CE18-0042
 url_code: ""
 url_pdf: ""
 url_slides: ""
