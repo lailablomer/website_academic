@@ -32,6 +32,8 @@ content:
     tag: PhD
   - name: Feed Your Brain
     tag: FYB
+  - name: Nav1.2RESCUE
+    tag: postdoc
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
