@@ -6,7 +6,7 @@ title: Laila Ananda Blömer
 superuser: true
 
 # Role/position/tagline
-role: PhD Student in Biophysics & Neuroscience
+role: Post doctoral researcher in Biophysics & Neuroscience
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -26,7 +26,7 @@ education:
   courses:
   - course: PhD student in Biophysics
     institution: Université Grenoble Alpes
-    year: now
+    year: 2022
   - course: MSc in Brain and Mind Sciences 
     institution: University College London
     year: 2018
@@ -75,9 +75,9 @@ email: ""
 highlight_name: true
 ---
 
-My name is Laila, welcome to this website! Currently, I am a PhD student in France, but my roots are in the Netherlands, where I did my bachelor studies majoring in neurobiology. Afterwards I persued a masters degree in London at UCL, going deeper into neuroscience. 
+My name is Laila, welcome to this website! Currently, I am working as a post doctoral researcher in the lab of [Dr Marco Canepari](https://marco-canepari.wixsite.com/neuron-imaging-team/about_us) in Grenoble, France on the NAV12RESCUE project. I recently (December 2022) finished my PhD in Grenoble France, but my roots are in the Netherlands, where I did my bachelor studies majoring in neurobiology. Afterwards I persued a masters degree in London at UCL, going deeper into neuroscience. 
 
-In my PhD, I am studying the behavior of voltage-gated ion channels during action potential back-propagation layer-5 pyramidal cells. Under the supervision of [Dr. Marco Canepari](https://marco-canepari.wixsite.com/neuron-imaging-team/about_us), the goal of my project is to extract the diverse sodium, calcium and potassium currents underlying the action potential back-propagation.
+In my PhD, I studied the behavior of voltage-gated ion channels during action potential back-propagation layer-5 pyramidal cells. Under the supervision of Dr Marco Canepari, the goal of my project was to extract the diverse sodium, calcium and potassium currents underlying the action potential back-propagation.
 
 Besides my PhD, but very related, I am interested in how computational modelling and more ‘traditional’ experimental neuroscience can be used together to create innovative approaches to understand neuronal signalling. I am very keen to master new techniques from experts in the field and learn where experimental work and computational modelling meet. 
 
