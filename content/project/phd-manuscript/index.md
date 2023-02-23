@@ -22,7 +22,7 @@ links:
 - icon: info-circle
   icon_pack: fas
   name: Manuscript
-  url: https://adum.fr/phd/fiche_rgpd.pl#doctorat
+  url: https://drive.google.com/file/d/1srna_Dm69iF3ZgoUw-p1eECFqgl1w2FN/view?usp=share_link
 url_code: ""
 url_pdf: ""
 url_slides: ""
