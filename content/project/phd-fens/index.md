@@ -30,6 +30,6 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
- slides: ""
+slides: ""
 ---
 Ca2+ influx via voltage-gated Ca2+ channels (VGCCs) contributes to the shaping of the AP by regulating the K+ conductance during the decaying phase. Here we optically analysed the kinetics of the Ca2+ current associated with APs in the apical dendrite of the layer-5 pyramidal neuron of the somatosensory cortex of the mouse. We found that this current is mediated by L-type, P/Q-type, N-type, R-type and T-type VGCCs. The selective block of each channel decreases the calcium current, except for the N-type VGCC where inhibition has the opposite effect. We hypothesize the increase in Ca2+ influx is driven by Ca2+ activated K+ channels (CAKC), such as BK and SK; in the proximal apical dendrite it seems that each CAKC is specifically coupled to a calcium channel. 
