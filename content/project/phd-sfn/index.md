@@ -33,3 +33,5 @@ url_video: ""
 slides: ""
 ---
 The action potential (AP) generated in the axon actively back-propagates (bAP) into the dendrites through the sequential activation and deactivation of diverse ion channels. Here, using ultrafast membrane potential (Vm) and Ca2+ imaging, we show that N-type voltage-gated Ca2+ channels (VGCCs) in the apical dendrite of layer-5 neocortical pyramidal neurons, selectively target large-conductance Ca2+-activated K+ channels (BK CAKCs). We show that this BK CAKC activation occurs within 500 /µs following the AP peak, i.e. before the peak of the Ca2+ current elicited by the AP. This way, when N-type VGCCs are inhibited, the early widening of the AP shape boosts the other activated VGCCs increasing the total Ca2+ influx. We built a realistic NEURON model showing that a strong coupling between N-type and BK channels is necessary to reproduce the experimental results. 
+
+If you are interested, you can download the poster pdf {{< staticref "media/sfn_poster.pdf" "newtab" >}}here{{< /staticref >}}.
