@@ -5,7 +5,7 @@ tags:
 - Voltage Gated Ion Channels
 - Electrophysiology
 - Pharmacology
-- nav1.2
+- nav1.2RESCUE
 date: "2023-11-15T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
