@@ -34,7 +34,7 @@ experience:
     company_url: https://dlst.univ-grenoble-alpes.fr/
     location: Grenoble, FR
     date_start: '2020-01-01'
-    date_end: ''
+    date_end: '2023-05-31'
     description: Theoretical and practical course on *Experimental methods in cell biology and biochemistry*, for License 1 students, the French equivalent of the first year of the European Bachelor of Science degree. Experimental techniques include affinity chromatography, electrophoresis, dialysis, microscopy and histology.
   - title: Analysis developer
     company: Heimel lab, Netherland Insititute for Neuroscience
