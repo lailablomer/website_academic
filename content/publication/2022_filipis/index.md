@@ -17,7 +17,7 @@ author_notes:
 - Luiza Filipis and Laila Blömer are joined first authors
 
 date: "2021-04-13T00:00:00Z"
-doi: 10.1101/2022.04.12.488116
+doi: 10.1113/JP283801
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-04-13T00:00:00Z"
