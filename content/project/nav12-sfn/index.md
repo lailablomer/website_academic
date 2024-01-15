@@ -6,6 +6,7 @@ tags:
 - Electrophysiology
 - Pharmacology
 - nav1.2RESCUE
+- postdoc
 date: "2023-11-15T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
