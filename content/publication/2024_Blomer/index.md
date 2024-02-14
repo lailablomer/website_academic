@@ -17,10 +17,10 @@ authors:
 #- Fatima Abbas and Laila Blömer are joined first authors
 
 date: "2023-10-29T00:00:00Z"
-doi: 10.1101/2023.10.26.564136
+doi: 10.3389/fncel.2024.1353895
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-10-29T00:00:00Z"
+publishDate: "2024-02-14T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -47,7 +47,7 @@ featured: true
 # - name: Custom Link
 #   url: https://www.biorxiv.org/content/10.1101/2023.10.26.564136v1.full.pdf+html
 
-url_pdf: https://www.biorxiv.org/content/10.1101/2023.10.26.564136v1.full.pdf+html
+url_pdf: https://www.frontiersin.org/articles/10.3389/fncel.2024.1353895/full
 url_code: ''
 url_dataset: ''
 url_poster: ''
